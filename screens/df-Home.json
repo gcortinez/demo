@@ -1,0 +1,32 @@
+{
+	"_id": "55bd628a4589c8460a106310",
+	"title": "Inicio",
+	"name": "Home",
+	"requestDate": "2015-08-02T01:19:15.777Z",
+	"ownerId": "",
+	"application": "df",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "wFormContacto",
+								"id": "67005"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": "Default"
+}

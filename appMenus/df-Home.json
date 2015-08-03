@@ -1,0 +1,15 @@
+{
+	"_id": "55bd628a4589c8460a106311",
+	"title": "Inicio",
+	"name": "Home",
+	"requestDate": "2015-08-02T01:19:15.781Z",
+	"ownerId": "",
+	"application": "df",
+	"parentname": "",
+	"order": "0",
+	"icon": "home",
+	"action": {
+		"type": "screen",
+		"value": "Home"
+	}
+}
